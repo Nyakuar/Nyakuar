@@ -1,4 +1,6 @@
 ### Hi there 👋
+![giphy](https://user-images.githubusercontent.com/99467318/174315909-b871cff3-2904-4c59-a65a-9bfc081d870a.gif)
+
 
 <!--
 **Nyakuar/Nyakuar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
